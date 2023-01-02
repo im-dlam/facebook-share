@@ -1,0 +1,8 @@
+các bạn hãy chạy lệnh như dưới để tải hết các thứ về mới dùng dc tool có gì ko hiểu hãy liên hệ zalo :0565622060
+chuẩn bị ra cho ae tool buff view youtube max speed 1 ngày 100k view cho ae 
+hãy like đăng kí kênh để nhận thông báo mới nhất 
+
+
+
+
+pip install -r requirements.txt
