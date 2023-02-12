@@ -1,2 +1,6 @@
-requests==2.25.0
-SocksiPy_branch==1.01
+httpx
+socks
+pysocks
+cloudscraper
+colorama
+undetected_chromedriver
